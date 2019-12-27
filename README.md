@@ -20,6 +20,11 @@ Our course will follow much of the same ideas covered in similar courses at Stan
 ---
 
 ## Interdisciplinary Integration
+This course will integrate perspectives from technical, creative, and hybrid standpoints, focusing them on a single task: the creation of a new and expressive musical interface. This requires students to maintain an active mindset in each discipline. For example, creating an expressive musical gesture from a digital interface will *not* work if the technical and design components are not adequately addressed. Similarly, if *only* technical issues are considered in the design process, the interface is likely to be neither expressive nor useful.
+
+This class is not just focused on conceptual knowledge and theory — it is centered around the actual creation of a NIME. Each student will be learning through and from real-world application of these disciplines.
+
+Although the course will impart technical skills, the real goal is for students to reflect on their own experiences of musical performance — and on art in general — to decide what is missing and how to fill that gap. NIME as a field, in addition to being a noun, exists on the boundary between technology, art, and culture. This course will not only throw into question students’ taste and values about electronic music, it will also force them to question what constitutes an expressive performance at all.
 
 ---
 
