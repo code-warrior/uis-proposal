@@ -11,7 +11,8 @@ In this course, students will learn how to create a New Interface for Musical Ex
 ---
 
 ## Disciplinary Contributions
-Our course will draw from the disciplines of electronics, computer programming, sound design, hardware design and fabrication, and electronic music composition and notation. Generally speaking, these disciplines fall into three categories: Hardware and software; music/sound creation/composition, and notation; and, design.
+
+Our course will draw from the disciplines of electronics, computer programming, sound design, hardware design and fabrication, and electronic music composition and notation. Generally speaking, these disciplines fall into three categories: Hardware and software; music/sound creation/composition and notation; and, design.
 
 Hardware and software will be emphasized to give students the foundation required to map human gestures and the environment to sound. Electronic music composition and notation will be taught so that the resulting interfaces are dynamic and sophisticated enough to be capable of expressive and repeatable performances. And, design will be the link between the technical computer skills and the more creatively focused theory of electronic music composition. The amalgam of these disciplines is a New Interface for Musical Expression, or NIME.
 
